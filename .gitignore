@@ -19,4 +19,4 @@ best_model.pth
 
 # Reports
 *.csv
-*.png
+png
