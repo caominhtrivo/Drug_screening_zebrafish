@@ -1,0 +1,22 @@
+# .gitignore
+
+# Data files (Private)
+data/
+*.npy
+*.mp4
+*.avi
+outputs/
+
+# Python environment
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Model weights
+*.pth
+best_model.pth
+
+# Reports
+*.csv
+*.png

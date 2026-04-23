@@ -22,6 +22,7 @@ The project implements a robust **ConvBiLSTM** architecture:
 
 ## 📊 Performance & Results
 * **Test Accuracy**: Achieved a test accuracy of **88.46%** across 15 fine-grained classes.
+* ![ConvBiLSTM Confusion Matrix](results/confusion_matrix.png)
 * **Optimization**: Optimized using **Label Smoothing**, **Cosine Annealing**, and specialized **Time-Series Augmentations** including Jittering and Time Masking.
 
 ## 📂 Repository Structure
